@@ -1,0 +1,25 @@
+{
+  "name": "tms_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@urgn/gulp-i18next-conv": "^9.1.2",
+    "gulp": "^4.0.2",
+    "i18next-conv": "^10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urgn/tms_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urgn/tms_testing/issues"
+  },
+  "homepage": "https://github.com/urgn/tms_testing#readme"
+}
