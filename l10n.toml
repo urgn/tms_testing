@@ -1,5 +1,4 @@
-locales = [ "en", "ru", "uk"]
 [[paths]]
-reference = "languages/pontoon/en.pot"
-l10n = "languages/pontoon/{locale}.po"
+reference = "languages/pontoon/tms-test.pot"
+l10n = "languages/pontoon/{locale}/tms-test.po"
 locales = [ "en", "ru", "uk"]
