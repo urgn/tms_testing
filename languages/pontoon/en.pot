@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+msgid "hello"
+msgstr ""
+
+msgid "button"
+msgstr ""
+
+msgid "donate"
+msgstr ""
+
+msgid "go"
+msgstr ""
