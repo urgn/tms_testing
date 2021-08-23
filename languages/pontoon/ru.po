@@ -14,6 +14,3 @@ msgstr "Привет"
 
 msgid "button"
 msgstr "Кнопка"
-
-msgid "donate"
-msgstr "Сделайте пожертвование urgn.tech!"
