@@ -1,4 +1,0 @@
-[[paths]]
-reference = "languages/pontoon/templates/tms-test.pot"
-l10n = "languages/pontoon/{locale}/tms-test.po"
-locales = [ "en", "ru", "uk"]
